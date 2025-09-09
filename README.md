@@ -83,11 +83,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Matrizes de Rastreabilidade***
-
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
-
-***2.9. Protótipos***
+***2.8. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
 
