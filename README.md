@@ -3,19 +3,23 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet:https://padlet.com/joaomarcosalcala123/kanban-8ij5jcvmiyhbrknr
 
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+MATEUS CASTRO DA CUNHA
+PEDRO HENRIQUE DE OLIVEIRA BICALHO
+MURILO HOLZLE DE MORAES
+JOAO MARCOS ARAUJO ALCALA
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+Digiteca
 
 ***1.3.  Propósito do Sistema***
+O projeto visa automatizar e facilitar o processo de empréstimo de livros digitais, onde hoje, em muitas escolas, principalmente publica é feita de forma analógica.
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
