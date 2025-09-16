@@ -19,11 +19,10 @@ JOAO MARCOS ARAUJO ALCALA
 Digiteca
 
 ***1.3.  Propósito do Sistema***
-O projeto visa automatizar e facilitar o processo de empréstimo de livros digitais, onde hoje, em muitas escolas, principalmente publica é feita de forma analógica.
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema `Digiteca` é .... *O projeto visa automatizar e facilitar o processo de empréstimo de livros digitais, onde hoje, em muitas escolas, principalmente publica é feita de forma analógica.
 
 ***1.2.  Público Alvo***
 
